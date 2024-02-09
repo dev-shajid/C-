@@ -1,5 +1,4 @@
 */bin
 /car*
 
-*.sln
-/car/bin*
+/car/obj*
