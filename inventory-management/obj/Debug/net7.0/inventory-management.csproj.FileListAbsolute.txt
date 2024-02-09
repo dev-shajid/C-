@@ -1,0 +1,30 @@
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/bin/Debug/net7.0/inventory-management
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/bin/Debug/net7.0/inventory-management.deps.json
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/bin/Debug/net7.0/inventory-management.runtimeconfig.json
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/bin/Debug/net7.0/inventory-management.dll
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/bin/Debug/net7.0/inventory-management.pdb
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.csproj.AssemblyReference.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.AssemblyInfoInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.AssemblyInfo.cs
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.csproj.CoreCompileInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.dll
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/refint/inventory-management.dll
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.pdb
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/inventory-management.genruntimeconfig.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management/obj/Debug/net7.0/ref/inventory-management.dll
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.csproj.AssemblyReference.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.AssemblyInfoInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.AssemblyInfo.cs
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.csproj.CoreCompileInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.dll
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/refint/inventory-management.dll
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.pdb
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/bin/Debug/net7.0/inventory-management
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/bin/Debug/net7.0/inventory-management.deps.json
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/bin/Debug/net7.0/inventory-management.runtimeconfig.json
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/bin/Debug/net7.0/inventory-management.dll
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/bin/Debug/net7.0/inventory-management.pdb
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/inventory-management.genruntimeconfig.cache
+/Users/mohammedsajidulislam/Desktop/C#/inventory-management copy/obj/Debug/net7.0/ref/inventory-management.dll

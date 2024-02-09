@@ -1,0 +1,15 @@
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/bin/Debug/net7.0/MediaManagement
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/bin/Debug/net7.0/MediaManagement.deps.json
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/bin/Debug/net7.0/MediaManagement.runtimeconfig.json
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/bin/Debug/net7.0/MediaManagement.dll
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/bin/Debug/net7.0/MediaManagement.pdb
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.csproj.AssemblyReference.cache
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.AssemblyInfoInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.AssemblyInfo.cs
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.csproj.CoreCompileInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.dll
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/refint/MediaManagement.dll
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.pdb
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/MediaManagement.genruntimeconfig.cache
+/Users/mohammedsajidulislam/Desktop/C#/Minhaj/obj/Debug/net7.0/ref/MediaManagement.dll

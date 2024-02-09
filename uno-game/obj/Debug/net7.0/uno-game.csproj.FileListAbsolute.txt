@@ -1,0 +1,15 @@
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/bin/Debug/net7.0/uno-game
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/bin/Debug/net7.0/uno-game.deps.json
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/bin/Debug/net7.0/uno-game.runtimeconfig.json
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/bin/Debug/net7.0/uno-game.dll
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/bin/Debug/net7.0/uno-game.pdb
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.csproj.AssemblyReference.cache
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.AssemblyInfoInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.AssemblyInfo.cs
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.csproj.CoreCompileInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.dll
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/refint/uno-game.dll
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.pdb
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/uno-game.genruntimeconfig.cache
+/Users/mohammedsajidulislam/Desktop/C#/uno-game/obj/Debug/net7.0/ref/uno-game.dll

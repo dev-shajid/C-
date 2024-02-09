@@ -1,0 +1,15 @@
+/Users/mohammedsajidulislam/Desktop/C#/car/bin/Debug/net7.0/car
+/Users/mohammedsajidulislam/Desktop/C#/car/bin/Debug/net7.0/car.deps.json
+/Users/mohammedsajidulislam/Desktop/C#/car/bin/Debug/net7.0/car.runtimeconfig.json
+/Users/mohammedsajidulislam/Desktop/C#/car/bin/Debug/net7.0/car.dll
+/Users/mohammedsajidulislam/Desktop/C#/car/bin/Debug/net7.0/car.pdb
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.csproj.AssemblyReference.cache
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.AssemblyInfoInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.AssemblyInfo.cs
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.csproj.CoreCompileInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.dll
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/refint/car.dll
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.pdb
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/car.genruntimeconfig.cache
+/Users/mohammedsajidulislam/Desktop/C#/car/obj/Debug/net7.0/ref/car.dll

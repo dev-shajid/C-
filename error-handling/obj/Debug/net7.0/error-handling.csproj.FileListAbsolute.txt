@@ -1,0 +1,15 @@
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/bin/Debug/net7.0/error-handling
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/bin/Debug/net7.0/error-handling.deps.json
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/bin/Debug/net7.0/error-handling.runtimeconfig.json
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/bin/Debug/net7.0/error-handling.dll
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/bin/Debug/net7.0/error-handling.pdb
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.csproj.AssemblyReference.cache
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.AssemblyInfoInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.AssemblyInfo.cs
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.csproj.CoreCompileInputs.cache
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.dll
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/refint/error-handling.dll
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.pdb
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/error-handling.genruntimeconfig.cache
+/Users/mohammedsajidulislam/Desktop/C#/error-handling/obj/Debug/net7.0/ref/error-handling.dll
