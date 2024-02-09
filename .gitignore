@@ -1,3 +1,4 @@
 */bin
-bin/
-car/bin
+/car*
+
+*/*.cs
