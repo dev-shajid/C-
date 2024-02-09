@@ -2,4 +2,4 @@
 /car*
 
 *.sln
-*.svd
+*.json
