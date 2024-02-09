@@ -1,5 +1,2 @@
-*/obj
-
-/car/obj*
-/car/obj*/
-/car/*.cs
+**/bin/
+**/obj/
