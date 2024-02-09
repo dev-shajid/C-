@@ -2,4 +2,4 @@
 /car*
 
 *.sln
-/car/car.deps.json
+/car/bin*
