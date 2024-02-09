@@ -1,4 +1,5 @@
 */obj
 
-/car/obj
+/car/obj*
+/car/obj*/
 /car/*.cs
